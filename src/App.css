@@ -1,0 +1,9 @@
+@import './libs/node-waves/waves.min.css';
+@import "./libs/prismjs/themes/prism-coy.min.css";
+@import "./libs/bootstrap/css/bootstrap.min.css";
+@import "./css/styles.min.css";
+@import "./css/icons.css";
+@import "./libs/simplebar/simplebar.min.css";
+@import "./libs/flatpickr/flatpickr.min.css";
+@import "./libs/@simonwep/pickr/themes/nano.min.css";
+@import "./libs/choices.js/public/assets/styles/choices.min.css";
